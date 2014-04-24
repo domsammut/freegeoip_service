@@ -3,6 +3,7 @@
     <name>FreeGeoIP Service</name>
     <description>Returns a users geo location information based off the awesome freegeoip.net API</description>
     <repo type="github">https://www.github.com/domsammut/freegeoip_service</repo>
+    <url type="discuss">http://www.getsymphony.com/discuss/thread/106134/</url>
     <types>
         <type>Third Party Integration</type>
     </types>
