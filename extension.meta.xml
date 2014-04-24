@@ -1,0 +1,20 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<extension id="freegeoip_service" status="released" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+    <name>FreeGeoIP Service</name>
+    <description>Returns a users geo location information based off the awesome freegeoip.net API</description>
+    <repo type="github">https://www.github.com/domsammut/freegeoip_service</repo>
+    <types>
+        <type>Third Party Integration</type>
+    </types>
+    <authors>
+        <author>
+            <name github="domsammut" symphony="domsammut">Dom Sammut</name>
+            <website>https://domsammut.com/</website>
+        </author>
+    </authors>
+    <releases>
+        <release version="0.1" date="2011-12-17" min="2.3.1" max="2.3.6">
+            - Initial public release
+        </release>
+    </releases>
+</extension>
