@@ -8,6 +8,8 @@ Class freegeoip_service_request {
     public static function ip_lookup($ip) {
 
         /**
+         * The reason for calling JSON over XML is that the JSON response is roughly 25% smaller than the XML response
+         *
          * Make requests over HTTPS.
          * @since 0.2
          */
