@@ -19,21 +19,19 @@ More info about me at [https://www.domsammut.com/about](https://www.domsammut.co
 
 An example of the data set returned in your page XML:
 
-    <user_geo_info>
-        <response>
-             <Ip>8.8.8.4</Ip>
-             <CountryCode>US</CountryCode>
-             <CountryName>United States</CountryName>
-             <RegionCode>CA</RegionCode>
-             <RegionName>California</RegionName>
-             <City>Mountain View</City>
-             <ZipCode>94043</ZipCode>
-             <Latitude>37.4192</Latitude>
-             <Longitude>-122.0574</Longitude>
-             <MetroCode>807</MetroCode>
-             <AreaCode>650</AreaCode>
-        </response>
-    </user_geo_info>
+    <user-geo-info>
+         <Ip>8.8.8.4</Ip>
+         <CountryCode>US</CountryCode>
+         <CountryName>United States</CountryName>
+         <RegionCode>CA</RegionCode>
+         <RegionName>California</RegionName>
+         <City>Mountain View</City>
+         <ZipCode>94043</ZipCode>
+         <Latitude>37.4192</Latitude>
+         <Longitude>-122.0574</Longitude>
+         <MetroCode>807</MetroCode>
+         <AreaCode>650</AreaCode>
+    </user-geo-info>
 
 ### Usage
 
