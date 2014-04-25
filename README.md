@@ -6,7 +6,14 @@ Returns a users geo location information based off the awesome [freegeoip.net](h
 Thanks go to the following people:
 
  - Alexandre Fiori, creator of [freegeoip.net](https://github.com/fiorix/freegeoip)
- - Joseph Denne, who created [GeoLocation Service](https://github.com/josephdenne/geolocation_service)
+ - Joseph Denne, who created [GeoLocation Service](https://github.com/josephdenne/geolocation_service) from which this idea is based off.
+
+
+## House keeping
+
+Any bugs, please [report](https://github.com/domsammut/freegeoip_service/issues) on GitHub. Any feature requests [just let me know](https://www.domsammut.com/projects/freegeoip-extension-for-symphony-cms#comments).
+
+More info about me at [https://www.domsammut.com/about](https://www.domsammut.com/about) and view [more info](https://www.domsammut.com/projects/freegeoip-extension-for-symphony-cms) about this extension.
 
 ## Example Output
 
@@ -42,9 +49,3 @@ A stock-standard install process. Full instructions on [how install a Symphony e
 1. Navigate to Pages and edit the page you wish to have FreeGeoIP information
 2. Add the `FreeGeoIP Service` Data Source
 3. Finished! You'll now see the nodeset in the Page XML.
-
-## House keeping
-
-Any bugs, please [report](https://github.com/domsammut/freegeoip_service/issues) on GitHub. Any feature requests just let me know. 
-
-More info about me at https://www.domsammut.com/
