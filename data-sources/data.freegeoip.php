@@ -14,8 +14,8 @@ Class datasourcefreegeoip extends Datasource {
     public function about(){
         return array(
             'name' => 'FreeGeoIp Service',
-            'version' => '0.3.1',
-            'release-date' => '2014-05-19',
+            'version' => '0.3.2',
+            'release-date' => '2015-09-26',
             'author' => array(
                 'name' => 'Dom Sammut',
                 'website' => 'https://www.domsammut.com/'
